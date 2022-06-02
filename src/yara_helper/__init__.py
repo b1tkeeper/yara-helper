@@ -6,4 +6,4 @@
 # @Author:      Wang Bohan <wbhan_cn@qq.com>
 # @Description:
 
-from parse import *
+from .parse import *
